@@ -17,4 +17,4 @@ This is a simple qr code UI build using just html and css.
 ## Author
 
 - Frontend Mentor - [@Kamaludyn](https://www.frontendmentor.io/profile/Kamaludyn)
-- Twitter - [@KayDheen](https://www.twitter.com/KayDhe
+- Twitter - [@KayDheen](https://www.twitter.com/KayDheen)
